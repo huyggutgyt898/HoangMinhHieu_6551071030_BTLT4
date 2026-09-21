@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\obj\Debug\net10.0-windows\BTCh4_Bai3.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\obj\Debug\net10.0-windows\BTCh4_Bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\obj\Debug\net10.0-windows\BTCh4_Bai3.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\obj\Debug\net10.0-windows\BTCh4_Bai3.AssemblyInfo.cs
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\obj\Debug\net10.0-windows\BTCh4_Bai3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\bin\Debug\net10.0-windows\BTCh4_Bai3.exe
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\bin\Debug\net10.0-windows\BTCh4_Bai3.deps.json
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\bin\Debug\net10.0-windows\BTCh4_Bai3.runtimeconfig.json
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\bin\Debug\net10.0-windows\BTCh4_Bai3.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\bin\Debug\net10.0-windows\BTCh4_Bai3.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\obj\Debug\net10.0-windows\BTCh4_Bai3.Form1.resources
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\obj\Debug\net10.0-windows\BTCh4_Bai3.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\obj\Debug\net10.0-windows\refint\BTCh4_Bai3.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\obj\Debug\net10.0-windows\BTCh4_Bai3.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\obj\Debug\net10.0-windows\BTCh4_Bai3.genruntimeconfig.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\obj\Debug\net10.0-windows\ref\BTCh4_Bai3.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BTCh4_Bai3\obj\Debug\net10.0-windows\BTCh4_Bai3.csproj.Up2Date
