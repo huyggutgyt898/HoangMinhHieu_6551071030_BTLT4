@@ -1,0 +1,16 @@
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\bin\Debug\net10.0-windows\BTCh4_Bai2.exe
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\bin\Debug\net10.0-windows\BTCh4_Bai2.deps.json
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\bin\Debug\net10.0-windows\BTCh4_Bai2.runtimeconfig.json
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\bin\Debug\net10.0-windows\BTCh4_Bai2.dll
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\bin\Debug\net10.0-windows\BTCh4_Bai2.pdb
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\obj\Debug\net10.0-windows\BTCh4_Bai2.Form1.resources
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\obj\Debug\net10.0-windows\BTCh4_Bai2.csproj.GenerateResource.cache
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\obj\Debug\net10.0-windows\BTCh4_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\obj\Debug\net10.0-windows\BTCh4_Bai2.AssemblyInfoInputs.cache
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\obj\Debug\net10.0-windows\BTCh4_Bai2.AssemblyInfo.cs
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\obj\Debug\net10.0-windows\BTCh4_Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\obj\Debug\net10.0-windows\BTCh4_Bai2.dll
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\obj\Debug\net10.0-windows\refint\BTCh4_Bai2.dll
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\obj\Debug\net10.0-windows\BTCh4_Bai2.pdb
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\obj\Debug\net10.0-windows\BTCh4_Bai2.genruntimeconfig.cache
+C:\Users\Do Nhat Thanh\BTCh4_Bai2\obj\Debug\net10.0-windows\ref\BTCh4_Bai2.dll
